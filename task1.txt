@@ -1,0 +1,37 @@
+Python Variables Tasks:
+	1- is_found = True
+	2- Know the type of the variable
+	3- yes - like print('mohamed'); print('elsayed'); print('ali')
+	4- interpreted
+	5- Machine can easily understand the low level language
+	 -Machine need interpreter or compiler to understand the high level language
+
+
+Python Operators Tasks:
+	1- (=) is an assignment operator, which sets the variable on the left of the = to the value of the expression that is on its right.
+	 - (==) compares the values of both the operands and checks for value equality.
+	
+	2- not equal 
+	3- Parentheses
+	   Exponentiation
+	   Multiplication
+	   Division
+	   Addition
+	   Subtraction
+
+Python Conditions Tasks:
+	1- all() The all(iterable) method evaluates like a series of and operators, if we have multiple of condition like print(all([2 == 2, 3 == 2]))
+
+	2- The and operator evaluates to True only if all conditions are True , return false if one in codition is false
+	 - The all() function returns True if all items in an iterable are true, otherwise it returns False. If the iterable object is empty, the all() function all returns True.
+	
+	3- The any() function returns True if any item in an iterable are true, otherwise it returns False. However, if the iterable object is empty, the any () function will return False.
+	- or return true if one in condition is true , return false if all return false
+	
+ 
+	4- any - or
+	5- If checks are always executed, elif only if the preceding if statement yields false.
+	6- else: if all conditions false then else will execute / elif executed if first condition is false
+	7- yes
+	8- yes
+
